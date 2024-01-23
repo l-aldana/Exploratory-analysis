@@ -21,7 +21,5 @@ Note: Dataset belongs to Tripleten
 
 Libraries used:
 - pandas
-matplotlib
-seaborn
-
-%matplotlib inline
+- matplotlib
+- seaborn

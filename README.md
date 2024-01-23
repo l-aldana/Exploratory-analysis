@@ -18,3 +18,10 @@ Dataset columns/variables:
 - days_listed — days counted since posted to elimination
 
 Note: Dataset belongs to Tripleten
+
+Libraries used:
+- pandas
+matplotlib
+seaborn
+
+%matplotlib inline

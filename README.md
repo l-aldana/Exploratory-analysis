@@ -1,4 +1,4 @@
-# Exploratory analysis
+# Car sales data analysis
 
 Dataset represents hundreds of free advertisements for used vehicles and they are published on a web site. The goal is to determine which factors influence the price of a vehicle and find the most popular types of them, as well as the correlation among price and age of vehicle, mileage, condition, transmission and color. 
 

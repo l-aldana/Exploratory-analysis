@@ -19,7 +19,7 @@ Dataset columns/variables:
 
 Note: Dataset belongs to Tripleten
 
-Libraries used:
+Used libraries:
 - pandas
 - matplotlib
 - seaborn
